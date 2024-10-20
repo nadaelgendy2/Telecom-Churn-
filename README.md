@@ -5,8 +5,8 @@ service usage data. The goal is to identify patterns and key
 factors influencing churn. 
 
 # Project Team Members:
-Mohamed Ahmed
-Hassan Abdelsattar
-Mostafa Mohamed
-Nada El Gendy
+Mohamed Ahmed,
+Hassan Abdelsattar,
+Mostafa Mohamed,
+Nada El Gendy,
 Eslam Mohamed
